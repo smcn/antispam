@@ -451,7 +451,7 @@ install DBD::mysql
 cpan Encoding::FixLatin
 ```
 
-![MailWatch](https://github.com/smcn/dns/blob/master/ms.JPG)
+![MailWatch](https://github.com/smcn/antispam/blob/master/ms.jpg)
 
 
 
