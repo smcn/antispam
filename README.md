@@ -452,6 +452,21 @@ install DBD::mysql
 cpan Encoding::FixLatin
 ```
 
-![MailWatch](https://github.com/smcn/antispam/blob/master/mw.jpg)
+### Eksiklikler:
+
+- Phishing veritabanı yeterli değil
+- Spam sayısı azaldı ama yeterli değil
+- Kara liste için joker kullanılamıyor
+
+| To    | From           | 
+| ------------- |:-------------:| 
+| a@a.com      | b@b.com | 
+| a.com      | default      |   
+| default | 1.2.3.4     | 
+| a.com      | b.com      |   
+
+
+![MailWatch](https://github.com/smcn/antispam/blob/master/ms.jpg)
+
 
 
