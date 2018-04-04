@@ -466,7 +466,7 @@ cpan Encoding::FixLatin
 | a.com      | b.com      |   
 
 
-![MailWatch](https://github.com/smcn/antispam/blob/master/ms.jpg)
+![MailWatch](https://github.com/smcn/antispam/blob/master/mw.jpg)
 
 
 
