@@ -172,6 +172,7 @@ Quarantine Whole Messages As Queue Files = yes
 SpamAssassin User State Dir = /var/spool/MailScanner/spamassassin
 Always Include SpamAssassin Report = yes
 Log Spam = yes
+Spam List = spamhaus-ZEN
 ```
 
 High SpamAssassin Score default 10 gelmekte, ideali 5
@@ -452,6 +453,5 @@ cpan Encoding::FixLatin
 ```
 
 ![MailWatch](https://github.com/smcn/antispam/blob/master/ms.jpg)
-
 
 
